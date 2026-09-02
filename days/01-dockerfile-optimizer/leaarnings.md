@@ -1,8 +1,10 @@
-Day 1 — AI Dockerfile Optimizer: Learnings
-🎯 What we built
+# Day 1 — AI Dockerfile Optimizer: Learnings
+
+## 🎯 What we built
 
 A FastAPI service that takes a Dockerfile and uses Gemini on Vertex AI to provide optimization recommendations and an optimized Dockerfile.
 
+```text
 Dockerfile
     ↓
 FastAPI
