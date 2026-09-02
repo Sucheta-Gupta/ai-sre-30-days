@@ -5,7 +5,7 @@ from google.genai import types
 
 client = genai.Client(
     vertexai=True,
-    project="dev-8fenak",
+    project="dev-project",
     location="global"
 )
 model =  "gemini-2.5-flash-lite"
